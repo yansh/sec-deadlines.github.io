@@ -1,7 +1,17 @@
 ---
    
  # Security and Privacy
-
+- name: ACIS (PrivaCI)
+  year: 2024
+  date: "September 27 – 28"
+  description: The 6th Annual Symposium on Applications of Contextual Integrity
+  link: https://privaci.info/symposium/2024/cfp.html
+  deadline:
+    - "2024-06-17 23:59"
+    - "2024-06-24 23:59"    
+  place: New Jersey, SA
+  tags: [SEC, PRIV, CONF]
+  
 - name: S&P (Oakland)
   year: 2024
   date: "May 20 – 23"
